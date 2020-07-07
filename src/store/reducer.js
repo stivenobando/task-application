@@ -3,6 +3,7 @@ import data from "../data/data";
 
 const initialState = {
   toDoList: data.toDoList,
+  isEnabled: true,
 };
 
 const reducer = (state = initialState, action) => {
