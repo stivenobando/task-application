@@ -48,7 +48,7 @@ export class ToDoListBuilder extends Component {
       data: actualData,
     });
 
-    var d = "Prueba";
+    var d = "";
   }
 }
 
