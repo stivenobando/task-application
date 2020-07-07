@@ -1,0 +1,12 @@
+{
+    "toDoList": [
+        {
+            "title": "Mi primer tarea",
+            "checked": true
+        },
+        {
+            "title": "Tender la cama",
+            "checked": false
+        }
+    ]
+}
